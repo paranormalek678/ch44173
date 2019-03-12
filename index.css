@@ -6,13 +6,13 @@
 
 }
 div{
-    background-color: aqua
+    background-color: aqua;
     height: 30px;
 }
 div.text{
     height: 30px;
     background-color: red;
-    transmition: all .4s linear;
+    transition: all .4s linear;
 }
 div.test :hover{
     height: 50px;
